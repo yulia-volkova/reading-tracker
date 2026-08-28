@@ -22,6 +22,11 @@ All data is the `READINGS` constant near the top of the script in
 `index.html`: an array of `{name, items}` groups, where each item is
 `{t: title, url, star: 0|1, time: "30 min"}`. Edit it in place.
 
+## Contributing
+
+Bug reports and pull requests are welcome via
+[GitHub issues](https://github.com/yulia-volkova/reading-tracker/issues).
+
 ## License
 
 MIT. The reading list itself is Redwood Research's; see the link above.
